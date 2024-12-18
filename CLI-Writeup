@@ -1,0 +1,63 @@
+Title:CLI Review
+Topic:CLI
+Context:What is CLI
+Clis is the process of creating storages for our information.In it we make files/directories and inside those we make 
+folders/subdirectories and the list goes on and on and they can either be empty or full of the deired information you
+want to store in their and would have unique features in copying and shiaring and excellent security feauters and even
+when shared in editing mode the security can still recognize threats and go through procedrues to maitain its safety of
+it,the ide(an area where the user makes everything and every piece of information they need,stored in files/directories-
+and folders/subdirectories and saves it for the future -and what not) and the userś computer.
+Today I will be talking about what I learned about Cli from the basics to writing this writeup right now.
+Now here is everything I know about Cli:
+Clone:Making a copy of an entire repository from your remote github account to your general google account where all your 
+drives are stored such as the copied repository  in your local repository. 
+Commit:A snapshot of changes you make to your repositories that would also change it on your github account and any other 
+website with your local repository.
+Push:In your local repository if you make a change to your repository on local you must send it or do it manually on remote.
+Pull:In your remote repository any changes made in it will be automatically made to its copies in its local repository counterparts.
+If working in twos there would be three copies of the original document and one copy for each person to work on which will be 
+sent to the main hub. 
+Directory=folder 
+.. is the representation of any parent directory.
+No matter how we order it files and folders will be ordered by alphabetical order.And using control d or r can fix syntax issues.
+And touch would make a file not a folder.
+Moving multiple would be: mv target 1,target 2 and target 3 to destination.
+Mv renames : renames ‘my item” to “my item 2”
+MV my item subdir.
+Bash,terminal and shell is another name for the command-line-interference not gui.
+Another word for directory is folder not file.
+pwd:“print working directory” tells you the type of file path you are on right now.
+ls:“List” is the current contents of the current directory. (files and other sub-directories)
+cd:“Change directory” is the navigation system for directory and would go into the sub directories.
+mkdir:“Make directory” is creation of a new folder/directory or file/subdirectory and it works anywhere and every inside the ide/cli/computer memory 
+or whatever it is used in. 
+rmdir:“Remove directory” is the removal of a folder through its parent folder.Using list would make it more quickly.But it can only be used to delete 
+empty directory.
+touch:Makes,removes or changes multiple folders.
+rm -rf:Deletes a folder with all its contents.
+mv (to rename):Rename:mv old name  new name.
+mv (to move):Move: mv target destination.
+Repository:A github repository is another word for project as it can also hold multiple different files.Repositories can’t use spaces so they would be
+like;Repository 1=Repository 1.So we use dashes instead to make it like;Repository 1=Repository-1.
+Now when it comes to setting up your Ide you must put your full name and email,then get your ide course token and finally head to your course folder,do the instructions
+and when you see done you will know that you´ve finished and completed your Ide and your can do whatev er you like with it(  store your information through 
+files/directories and folders/subdirectories etc).
+Now this the end of this write up and I hope whoever is reading this enjoyed it and finds it helpful when itcomes to learning about clis and ides and how to make ides for
+themselves and I will see you all in my next writeup with whatever else I learn in Hstatś software enginnering program class.Bye.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
